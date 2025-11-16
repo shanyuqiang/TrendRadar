@@ -1,14 +1,11 @@
-DeepSeek
-梁文锋
-
-微软
-Microsoft
+aicoding
+agent
+cursor
+claudecode
 
 英伟达
 NVIDIA
 黄仁勋
-
-AMD
 
 谷歌
 google
@@ -25,6 +22,3 @@ Anthropic
 ai
 !gai
 人工智能
-
-星穹铁道
-原神
