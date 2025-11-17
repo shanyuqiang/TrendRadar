@@ -141,8 +141,6 @@ platforms:
     name: "Hacker News"
   - id: "solidot"
     name: "Solidot"
-  - id: "v2ex"
-    name: "V2EX"
   - id: "nowcoder"
     name: "牛客网"
   - id: "pcbeta"
